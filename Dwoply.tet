@@ -1,7 +1,7 @@
 [color_theme]
 
 background_color="#1C1B1C"
-text_color="#FCFCF8"
+text_color="#C4C4C1"
 current_line_color="#2A2A2A"
 selection_color="#383838"
 text_selected_color="#FCFCF8"
@@ -24,7 +24,7 @@ gdscript/function_definition_color="#7CDFF7"
 gdscript/global_function_color="#A493FB"
 gdscript/node_path_color="#FE9967"
 gdscript/node_reference_color="#AEF567"
-gdscript/string_name_color="#FFB967"
+gdscript/string_name_color="#FFA778"
 
 comment_color="#383838"
 doc_comment_color="#32481D"
