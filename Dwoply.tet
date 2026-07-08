@@ -34,9 +34,9 @@ comment_markers/critical_color="#7F152F"
 
 line_number_color="#8C8C8A"
 safe_line_number_color="#B1D38F"
-bookmark_color="#ff00ff"
-breakpoint_color="#ff00ff"
-executing_line_color="#ff00ff"
+bookmark_color="#49771B"
+breakpoint_color="#7F152F"
+executing_line_color="#826614"
 
 caret_color="#FCFCF8"
 caret_background_color="#1C1B1C00"
