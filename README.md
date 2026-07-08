@@ -2,8 +2,6 @@
 
 A vibrant syntax theme inspired by Monokai.
 
-**TODO:** `bookmark_color`, `breakpoint_color` and `executing_line_color` haven't been setup yet.
-
 ## Installation
 
 Place the `.tet` file in your Godot text editor theme directory:
